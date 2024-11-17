@@ -1,2 +1,2 @@
 # Laravel-to-do
-Laravel-to-do with livewire
+Laravel-to-do with livewire & tailwindcss
